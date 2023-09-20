@@ -1,1 +1,1 @@
-# CSC422Apps
+# Automated (Machine) Learning and Data Analysis (CSC 422) Applications
